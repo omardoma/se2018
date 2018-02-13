@@ -4,7 +4,7 @@ The guide is written to help you setup the development tools that you will need 
 
 All commands written in instructions are commands to be written in the Linux terminal.
 
-**Disclaimer: this guide is written for the latest long term release Ubuntu 16.04, if you are using another version of Ubuntu, then some of the commands will not work and you will be on your own, be advised that it is recommended that you use only the software supported by the SE2018 team.**
+**Disclaimer: this guide is written for the latest long term release Ubuntu 16.04, if you are using another version of Ubuntu, then some of the commands may not work and you will be on your own, be advised that it is recommended that you use only the software supported by the SE2018 team.**
 
 ---
 
