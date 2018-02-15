@@ -123,7 +123,7 @@ Engineering students skip this step
 Install Vue.js CLI via npm(Node Package Manager, already installed with Node.js).
 
 ```
-npm install --global vue-cli
+npm install --g vue-cli
 ```
 
 ## Usage:
