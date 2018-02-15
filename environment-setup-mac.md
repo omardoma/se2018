@@ -78,11 +78,12 @@ mongo
 
 ---
 
+**BI students skip Angular**
+
 ![alt text](https://cdn.worldvectorlogo.com/logos/angular-3.svg "Angular")
 
 ## Installation:
 
-BI students skip this step  
 Install Angular CLI via npm(Node Package Manager, already installed with Node.js).
 
 ```
@@ -96,16 +97,16 @@ npm install -g @angular/cli
 
 ---
 
+**Engineering students skip Vue.js**
+
 ![alt text](https://ih0.redbubble.net/image.324410142.0465/flat,800x800,075,f.u4.jpg)
 
 ## Installation:
 
-
-Engineering students skip this step  
 Install Vue.js CLI via npm(Node Package Manager, already installed with Node.js).
 
 ```
-npm install --global vue-cli
+npm install --g vue-cli
 ```
 
 ## Usage:
@@ -115,6 +116,6 @@ npm install --global vue-cli
 
 ---
 
-Express.js do not need installation, they are automatically installed in the project dependencies.
+Express.js do not need installation, it is automatically installed in the project dependencies.
 
 Goodluck people :metal:
