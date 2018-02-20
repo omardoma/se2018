@@ -119,7 +119,6 @@ npm install -g @angular/cli
 ## Installation:
 
 
-Engineering students skip this step  
 Install Vue.js CLI via npm(Node Package Manager, already installed with Node.js).
 
 ```
