@@ -118,7 +118,7 @@ npm install -g @angular/cli
 Install Angular CLI via npm (Node Package Manager, already installed with Node.js).
 Go to terminal "Cmder" and write the following command:
 ```
-npm install -g @angular/cli
+npm install --global vue-cli
 ```
 
 ## Usage:
