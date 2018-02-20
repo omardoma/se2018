@@ -115,7 +115,7 @@ npm install -g @angular/cli
 
 ## Installation:
 
-Install Vue CLI via npm (Node Package Manager, already installed with Node.js).
+Install Vue.js CLI via npm (Node Package Manager, already installed with Node.js).
 Go to terminal "Cmder" and write the following command:
 ```
 npm install --g vue-cli
